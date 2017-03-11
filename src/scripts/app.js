@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom'
 import Backbone from 'backbone'
 import init from './init'
 
+var app = 
 
 const app = function() {
   document.querySelector('.container').innerHTML = `<h1>docBrownsAdjuster</h1>`
